@@ -1,0 +1,3 @@
+```sql
+SELECT * FROM users WHERE name LIKE '%e%';
+```
